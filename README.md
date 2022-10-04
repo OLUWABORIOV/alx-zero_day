@@ -1,1 +1,1 @@
-My first readme. Tips
+I AM A SOFTWARE ENGINEER
